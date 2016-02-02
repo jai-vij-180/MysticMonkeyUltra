@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 48ce2b8f2173e85419d3b0a04c9fe2ce
+timeCreated: 1452944264
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic-2_0
+    21300002: sonic-2_1
+    21300004: sonic-2_2
+    21300006: sonic-2_3
+    21300008: sonic-2_4
+    21300010: sonic-2_5
+    21300012: sonic-2_6
+    21300014: sonic-2_7
+    21300016: sonic-2_8
+    21300018: sonic-2_9
+    21300020: sonic-2_10
+    21300022: sonic-2_11
+    21300024: sonic-2_12
+    21300026: sonic-2_13
+    21300028: sonic-2_14
+    21300030: sonic-2_15
+    21300032: sonic-2_16
+    21300034: sonic-2_17
+    21300036: sonic-2_18
+    21300038: sonic-2_19
+    21300040: sonic-2_20
+    21300042: sonic-2_21
+    21300044: sonic-2_22
+    21300046: sonic-2_23
+    21300048: sonic-2_24
+    21300050: sonic-2_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sonic-2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 153
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 151
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 151
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 153
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 102
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 102
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 103
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 51
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 51
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 50
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-2_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

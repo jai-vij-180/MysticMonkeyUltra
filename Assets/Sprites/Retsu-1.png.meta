@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 79fd2c3062221414cb49ea3735d844ad
+timeCreated: 1452944255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Retsu-1_0
+    21300002: Retsu-1_1
+    21300004: Retsu-1_2
+    21300006: Retsu-1_3
+    21300008: Retsu-1_4
+    21300010: Retsu-1_5
+    21300012: Retsu-1_6
+    21300014: Retsu-1_7
+    21300016: Retsu-1_8
+    21300018: Retsu-1_9
+    21300020: Retsu-1_10
+    21300022: Retsu-1_11
+    21300024: Retsu-1_12
+    21300026: Retsu-1_13
+    21300028: Retsu-1_14
+    21300030: Retsu-1_15
+    21300032: Retsu-1_16
+    21300034: Retsu-1_17
+    21300036: Retsu-1_18
+    21300038: Retsu-1_19
+    21300040: Retsu-1_20
+    21300042: Retsu-1_21
+    21300044: Retsu-1_22
+    21300046: Retsu-1_23
+    21300048: Retsu-1_24
+    21300050: Retsu-1_25
+    21300052: Retsu-1_26
+    21300054: Retsu-1_27
+    21300056: Retsu-1_28
+    21300058: Retsu-1_29
+    21300060: Retsu-1_30
+    21300062: Retsu-1_31
+    21300064: Retsu-1_32
+    21300066: Retsu-1_33
+    21300068: Retsu-1_34
+    21300070: Retsu-1_35
+    21300072: Retsu-1_36
+    21300074: Retsu-1_37
+    21300076: Retsu-1_38
+    21300078: Retsu-1_39
+    21300080: Retsu-1_40
+    21300082: Retsu-1_41
+    21300084: Retsu-1_42
+    21300086: Retsu-1_43
+    21300088: Retsu-1_44
+    21300090: Retsu-1_45
+    21300092: Retsu-1_46
+    21300094: Retsu-1_47
+    21300096: Retsu-1_48
+    21300098: Retsu-1_49
+    21300100: Retsu-1_50
+    21300102: Retsu-1_51
+    21300104: Retsu-1_52
+    21300106: Retsu-1_53
+    21300108: Retsu-1_54
+    21300110: Retsu-1_55
+    21300112: Retsu-1_56
+    21300114: Retsu-1_57
+    21300116: Retsu-1_58
+    21300118: Retsu-1_59
+    21300120: Retsu-1_60
+    21300122: Retsu-1_61
+    21300124: Retsu-1_62
+    21300126: Retsu-1_63
+    21300128: Retsu-1_64
+    21300130: Retsu-1_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Retsu-1_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1361
+        width: 127
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1415
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1298
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1376
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1264
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1264
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1264
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1264
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1256
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1256
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1256
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1072
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1072
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1072
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1072
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1072
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1072
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 880
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 880
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 880
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 880
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 880
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 880
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_24
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 880
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 880
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 688
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 688
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 688
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 688
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 688
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 688
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_32
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 688
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 688
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_34
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 688
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 688
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_36
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 688
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 512
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 512
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 512
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 512
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_43
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 512
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_44
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 512
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 512
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 339
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 304
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 339
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 356
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 304
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_52
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 250
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 240
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 250
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_56
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 240
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 69
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 78
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_63
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 48
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_64
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 69
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Retsu-1_65
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 48
+        width: 108
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
